@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  height: 60px;
+  height: 80px;
 }
 
 a {
@@ -19,4 +19,20 @@ a:hover {
 
 .toplinks {
   vertical-align: middle;
+  display: inline-block;
 }
+
+.google-notifications .google-apps {
+  background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+}
+
+.google-account {
+  background-image: url(//www.freedigitalphotos.net/images/previews/silhouette-girl-standing-10093771.jpg);
+}
+
+
+
+
