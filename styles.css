@@ -1,0 +1,22 @@
+body {
+  min-width: 980px;
+  font-family: arial, sans-serif;
+}
+
+.navbar {
+  height: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  opacity: .75;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.toplinks {
+  vertical-align: middle;
+}
