@@ -6,6 +6,8 @@ body {
 
 .navbar {
   height: 30px;
+  padding-top: 20px;
+  display: block;
 }
 
 a {
@@ -22,12 +24,12 @@ a:hover {
   display: block;
   float: right;
   min-width: 300px;
-  padding-top: 17px;
 }
 
 a.google-notifications {
   background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
   background-size: 528px 68px;
+  background-position: -194px -21px;
   height: 30px;
   width: 30px;
   display: inline-block;
@@ -47,11 +49,14 @@ a.google-apps {
 
 a.google-account {
   background-image: url("https://www.freedigitalphotos.net/images/previews/silhouette-girl-standing-10093771.jpg");
-  background-position: 50px 50px;
-  background-size: 75%;
-  background-repeat: no-repeat;
+  background-position: -7px 0px;
+  background-size: 180%;
   height: 30px;
   width: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000;
+  border-width: 1px;
   display: inline-block;
   box-sizing: border-box;
   vertical-align: middle;
@@ -60,10 +65,20 @@ a.google-account {
 
 .images {
   padding-left: 15px;
+  padding-top: 10px;
   display: inline-block;
+  vertical-align: middle;
+}
+
+.gmail {
+  padding-top: 10px;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .google-services {
   display: inline-block;
   min-width: 120px;
+  float: right;
+  padding-right: 25px;
 }
