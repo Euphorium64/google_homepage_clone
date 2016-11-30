@@ -86,8 +86,13 @@ a.google-account {
   display: inline-block;
   width: 350px;
   position: relative;
+  padding-bottom: 20px;
 }
 
+.dynamic-logo {
+  display: block;
+  padding-top: 75px;
+}
 
 
 
