@@ -83,7 +83,9 @@ a.google-account {
 }
 
 .logo {
-  size: 50%;
+  display: inline-block;
+  width: 350px;
+  position: relative;
 }
 
 
