@@ -107,6 +107,9 @@ input.search-bar:hover {
   border: none;
 }
 
+.search-area {
+  padding-top: 12px;
+}
 
 
 
