@@ -95,17 +95,17 @@ a.google-account {
 }
 
 input.search-bar {
-  width: 480px;
+  width: 484px;
   height: 40px;
-  box-shadow: 0px 2px 1px 0px #d0d0d0;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+  border: none;
   font-size: 16px;
 }
 
 input.search-bar:hover {
-  box-shadow: 0px 3px 2px 2px #d0d0d0;
+  box-shadow: 0px 3px 8px 0 #d0d0d0;
+  border: none;
 }
-
-
 
 
 
