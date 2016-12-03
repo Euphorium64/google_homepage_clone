@@ -36,6 +36,10 @@ a.google-notifications {
   padding-right: 14px;
 }
 
+a.google-notifications:hover {
+  opacity: .90;
+}
+
 a.google-apps {
   background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
   background-position: -132px -38px;
@@ -45,6 +49,10 @@ a.google-apps {
   display: inline-block;
   vertical-align: middle;
   padding-right: 14px;
+}
+
+a.google-apps:hover {
+  opacity: .90;
 }
 
 a.google-account {
