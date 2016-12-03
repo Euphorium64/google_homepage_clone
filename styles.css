@@ -181,13 +181,24 @@ input.search-bar:hover {
 .right-section {
   display: inline-block;
   float: right;
+  font-size: small;
 }
 
+.right-section {
+  font-size: small;
+}
 
+.priv {
+  padding-right: 27px;
+}
 
+.term {
+  padding-right: 27px;
+}
 
-
-
+.sett {
+  padding-right: 27px;
+}
 
 
 
