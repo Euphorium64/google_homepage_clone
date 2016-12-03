@@ -176,15 +176,12 @@ input.search-bar:hover {
 
 .left-section {
   display: inline-block;
+  font-size: small;
 }
 
 .right-section {
   display: inline-block;
   float: right;
-  font-size: small;
-}
-
-.right-section {
   font-size: small;
 }
 
@@ -199,6 +196,20 @@ input.search-bar:hover {
 .sett {
   padding-right: 27px;
 }
+
+.ad {
+  padding-left: 27px;
+}
+
+.busi {
+  padding-left: 27px;
+}
+
+.about {
+  padding-left: 27px;
+}
+
+
 
 
 
